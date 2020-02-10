@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tsukiya" size="100.000000 18.720379" />
+    <ImageTarget name="nagahamano1" size="100.000000 15.458277" />
+    <ImageTarget name="issou" size="100.000000 26.150122" />
+    <ImageTarget name="jinanbo2" size="100.000000 29.235382" />
+    <ImageTarget name="shinshin2" size="100.000000 30.429594" />
+    <ImageTarget name="meisima" size="100.000000 43.092106" />
+    <ImageTarget name="unari2" size="100.000000 29.404144" />
+    <ImageTarget name="unari1" size="100.000000 106.369431" />
+    <ImageTarget name="ikkousya" size="100.000000 32.199547" />
+    <ImageTarget name="dosanko" size="100.000000 386.486481" />
+    <ImageTarget name="daruma" size="100.000000 36.170212" />
+  </Tracking>
+</QCARConfig>
